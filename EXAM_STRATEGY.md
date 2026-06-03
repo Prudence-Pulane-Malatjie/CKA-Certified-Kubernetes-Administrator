@@ -1,6 +1,6 @@
 # Exam Strategy: Personalized Study Roadmap
 
-**Last Updated: June 2026** | Evidence-based from 80+ candidate dataset
+**Last Updated: June 2026** | Framework-based study optimization
 
 Stop studying linearly. This guide helps you **focus on YOUR gaps** and prepare efficiently.
 
@@ -187,7 +187,7 @@ No study needed. You're ready. Use your time on weak domains.
 
 **Week 3:**
 - Mock exams (focus on storage questions)
-- Review REAL_EXAM_PATTERNS.md storage gotchas
+- Review DIAGNOSTICS.md storage gotchas
 
 ---
 
@@ -209,7 +209,7 @@ No study needed. You're ready. Use your time on weak domains.
    - 60 min per gap deep dive (DIAGNOSTICS.md)
    - 30 min per gap practice questions
 3. **Day 5:** Take Mock Exam 2
-4. **Day 6:** Review 5 hardest gotchas (REAL_EXAM_PATTERNS.md)
+4. **Day 6:** Review 5 hardest gotchas (Exercise READMEs + DIAGNOSTICS.md)
 5. **Day 7:** Light review + mock exam 1 quick revisit
 
 **Don't spend time on:** Anything 7+/10. Focus on ≤5.
@@ -225,7 +225,7 @@ No study needed. You're ready. Use your time on weak domains.
    - Practice 3 commands from QUICK_COMMAND_REFERENCE.md (if available)
 
 2. **Next 3 hours:** Take Mock Exam 1 (120 min), review scoring
-3. **Last 3 hours:** Review REAL_EXAM_PATTERNS.md gotchas + pre-exam checklist
+3. **Last 3 hours:** Review 5 hardest exercise gotchas (Exercise READMEs) + pre-exam checklist
 
 **Accept:** You won't be perfect. Focus on passing (66%).
 
@@ -293,7 +293,7 @@ Use GRADING.md scoring criteria:
 
 ## Study Tactics That Work
 
-Based on 80+ candidate reports:
+Based on pedagogical research and practical testing:
 
 1. **Do one exercise start-to-finish** (don't jump around mid-exercise)
    - Read task → Attempt → Check "What tripped me up" → Verify with solution
@@ -351,7 +351,7 @@ If you see these during practice, you're likely to fail the real exam:
 ## Resources
 
 - [GRADING.md](GRADING.md) — Detailed rubric for all 31 exercises + scoring criteria
-- [REAL_EXAM_PATTERNS.md](REAL_EXAM_PATTERNS.md) — Evidence-based gotchas from 50+ candidates
+- [DIAGNOSTICS.md](DIAGNOSTICS.md) — Troubleshooting decision trees by symptom
 - [DIAGNOSTICS.md](DIAGNOSTICS.md) — Troubleshooting flowcharts by symptom
 - [DOMAINS.md](DOMAINS.md) — Domain breakdown + official weights
 - `scripts/run-mock-exam.sh` — Timed mock exam with countdown timer

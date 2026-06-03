@@ -178,7 +178,7 @@ Keep these open while practicing:
 | Resource | When to Use | Location |
 |----------|------------|----------|
 | **DIAGNOSTICS.md** | Something breaks (Pod Pending, etc.) | Top-level directory |
-| **REAL_EXAM_PATTERNS.md** | Understand what patterns to expect | Top-level directory |
+| **DIAGNOSTICS.md** | Troubleshooting flowcharts by symptom | Top-level directory |
 | **cka-cheatsheet.md** | Quick reference (commands, syntax) | `cheatsheet/` |
 | **DOMAINS.md** | Understand exam focus areas | Top-level directory |
 | **kubernetes.io/docs** | Official docs (allowed during exam) | Online |
@@ -187,11 +187,11 @@ Keep these open while practicing:
 
 ```
 Before Exam:
-1. Read REAL_EXAM_PATTERNS.md (know what to expect)
+1. Read exercise READMEs "What tripped me up" sections (know common gotchas)
 2. Review DOMAINS.md (refresh domain weights)
 
 During Exam:
-1. First 5 min: Read questions, reference REAL_EXAM_PATTERNS.md
+1. First 5 min: Read questions, reference DIAGNOSTICS.md if stuck
 2. While solving: DIAGNOSTICS.md if stuck
 3. Reference: cka-cheatsheet.md for kubectl syntax
 
@@ -246,7 +246,7 @@ Before scheduling real CKA exam, verify:
 
 ✅ Scored 12+/15 on both mock exams (or close)
 ✅ Can consistently diagnose using DIAGNOSTICS.md
-✅ Understand domain weights from REAL_EXAM_PATTERNS.md
+✅ Know common gotchas from exercise READMEs
 ✅ Passed killer.sh (if available in your cluster)
 ✅ Refreshed all 7 red-flag exercises (04, 05, 11, 12, 16, 28, 29)
 
